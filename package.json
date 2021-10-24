@@ -1,0 +1,14 @@
+{
+  "name": "imdb_soundtrack",
+  "version": "1.0.0",
+  "description": "a imdb bot to search for soundtracks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gunnar Rødfoss",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^10.4.0"
+  }
+}
